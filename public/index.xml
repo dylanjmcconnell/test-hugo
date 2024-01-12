@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>file:///home/dylan/Source/quickstart/public/</link>
+    <link>https://dylanjmcconnell.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jan 2024 13:53:11 +1100</lastBuildDate>
-    <atom:link href="file:///home/dylan/Source/quickstart/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jan 2024 14:45:53 +1100</lastBuildDate>
+    <atom:link href="https://dylanjmcconnell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>https://dylanjmcconnell.github.io/posts/my-third-post/</link>
+      <pubDate>Fri, 12 Jan 2024 14:45:53 +1100</pubDate>
+      <guid>https://dylanjmcconnell.github.io/posts/my-third-post/</guid>
+      <description>A nother post Just stee if this thing is working</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>https://dylanjmcconnell.github.io/posts/my-second-post/</link>
+      <pubDate>Fri, 12 Jan 2024 14:24:19 +1100</pubDate>
+      <guid>https://dylanjmcconnell.github.io/posts/my-second-post/</guid>
+      <description>Plot test! &lt;!DOCTYPE html&gt; Bokeh Plot </description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>file:///home/dylan/Source/quickstart/public/posts/my-first-post/</link>
+      <link>https://dylanjmcconnell.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 12 Jan 2024 13:53:11 +1100</pubDate>
-      <guid>file:///home/dylan/Source/quickstart/public/posts/my-first-post/</guid>
+      <guid>https://dylanjmcconnell.github.io/posts/my-first-post/</guid>
       <description>Introduction This is bold text, and this is emphasized text. Wow.&#xA;Visit the Hugo website!&#xA;Can you embed HTML? That is the question</description>
     </item>
   </channel>
