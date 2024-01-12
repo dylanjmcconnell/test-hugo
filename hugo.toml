@@ -1,0 +1,4 @@
+baseURL = 'file:///home/dylan/Source/quickstart/public/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
