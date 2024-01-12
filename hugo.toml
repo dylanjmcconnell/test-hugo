@@ -1,4 +1,4 @@
-baseURL = 'file:///home/dylan/Source/quickstart/public/'
+baseURL = 'https://dylanjmcconnell.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
