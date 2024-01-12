@@ -1,0 +1,4 @@
+<!-- layouts/shortcodes/html-embed.html -->
+{{ $path := .Get "path" }}
+{{ $htmlContent := readFile $path }}
+{{ $htmlContent | safeHTML }}
